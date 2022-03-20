@@ -1,5 +1,5 @@
 
-# Online Python - IDE, Editor, Compiler, Interpreter
+# 
 
 def isSquared(a,b):
     if(len(a) != len(b)):
